@@ -1,0 +1,13 @@
+
+
+.center {
+    text-align: center !important;
+   
+}
+.m-0 {
+    font-size: medium !important;
+    margin: 0px !important;
+}
+.dashboard_default .transaction-card table tr td button {
+    width: 75px !important;
+}
